@@ -4,7 +4,7 @@
 
 # MOUNTAIN TOKEN (MNT)
 
-<p dir='rtl' align='right'>
+<p dir='rtl' align='center'>
 
 Mountain token was created by a professional alpinst and outdoor enthusiast Marcos Costa.
 
