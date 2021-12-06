@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to MOUNTAIN
 
-You can use the [editor on GitHub](https://github.com/MCDF31/MOUNTAIN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img width="363" alt="MNT" src="https://user-images.githubusercontent.com/34763646/144815261-41c816d5-a30d-432c-9c16-3930323cb106.png">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# MOUNTAIN TOKEN (MNT)
 
-### Markdown
+Mountain token was created by a professional alpinst and outdoor enthusiast Marcos Costa.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The goal of this project is to help grow awareness of the Cardano ecosystem and share the growth and benefits with all of those who participate. 
 
-```markdown
-Syntax highlighted code block
+Be part of the MOUNTAIN movement! It will take us all to new heights!
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+More on CARDANO:
+https://cardano.org
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Cardano is a blockchain platform for changemakers, innovators, and visionaries, with the tools and technologies required to create possibility for the many, as well as the few, and bring about positive global change.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MCDF31/MOUNTAIN/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+
+
+*We are currently working on updating the page with all of the details of this exciting project.*
+
+**Stay tuned and check back shortly for news**
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[contact us](marcosncosta2@gmail.com) and we’ll help you sort it out.
