@@ -14,7 +14,7 @@ Be part of the MOUNTAIN movement! It will take us all to new heights!
 
 </p>
 
-<p>
+<p dir='ltl' align='left'>
 More on CARDANO:
   
 [Cardano](https://cardano.org)
@@ -29,7 +29,7 @@ Cardano is a blockchain platform for changemakers, innovators, and visionaries, 
 
 
 
-<p>
+<p dir='ltl' align='left'>
 *We are currently working on updating the page with all of the details of this exciting project.*
 
 </p>
