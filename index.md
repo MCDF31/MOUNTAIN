@@ -27,9 +27,10 @@ Cardano is a blockchain platform for changemakers, innovators, and visionaries, 
 
 
 
-
+<p>
 
 *We are currently working on updating the page with all of the details of this exciting project.*
+</p>
 
 
 
