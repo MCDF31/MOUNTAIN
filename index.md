@@ -15,7 +15,10 @@ Be part of the MOUNTAIN movement! It will take us all to new heights!
 
 
 More on CARDANO:
-https://cardano.org
+  
+[Cardano](https://cardano.org)
+  
+
 
 
 Cardano is a blockchain platform for changemakers, innovators, and visionaries, with the tools and technologies required to create possibility for the many, as well as the few, and bring about positive global change.
