@@ -4,35 +4,34 @@
 
 # MOUNTAIN TOKEN (MNT)
 
-<p dir='rtl' align='center'>
+
 
 Mountain token was created by a professional alpinst and outdoor enthusiast Marcos Costa.
 
 The goal of this project is to help grow awareness of the Cardano ecosystem and share the growth and benefits with all of those who participate. 
 
-Be part of the MOUNTAIN movement! It will take us all to new heights!
+Be part of the MOUNTAIN movement! It will take us all to new heights.
 
-</p>
+
 
 <p dir='ltl' align='left'>
 More on CARDANO:
   
-[Cardano](https://cardano.org)
+https://cardano.org
   
 
 
 
 Cardano is a blockchain platform for changemakers, innovators, and visionaries, with the tools and technologies required to create possibility for the many, as well as the few, and bring about positive global change.
-</p>
 
 
 
 
 
-<p dir='ltl' align='left'>
+
 *We are currently working on updating the page with all of the details of this exciting project.*
 
-</p>
+
 
 **Stay tuned and check back shortly for news**
 
