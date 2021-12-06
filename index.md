@@ -14,9 +14,9 @@ Be part of the MOUNTAIN movement! It will take us all to new heights.
 
 
 
-<p dir='ltl' align='left'>
+<p>
 More on CARDANO:
-  
+</p>
 https://cardano.org
   
 
