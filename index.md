@@ -12,8 +12,9 @@ The goal of this project is to help grow awareness of the Cardano ecosystem and 
 
 Be part of the MOUNTAIN movement! It will take us all to new heights!
 
+</p>
 
-
+<p>
 More on CARDANO:
   
 [Cardano](https://cardano.org)
@@ -22,13 +23,13 @@ More on CARDANO:
 
 
 Cardano is a blockchain platform for changemakers, innovators, and visionaries, with the tools and technologies required to create possibility for the many, as well as the few, and bring about positive global change.
+</p>
 
 
 
 
 
-
-
+<p>
 *We are currently working on updating the page with all of the details of this exciting project.*
 
 </p>
